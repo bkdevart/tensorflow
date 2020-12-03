@@ -1,0 +1,6 @@
+/tensorflow
+/tensorflow_macos
+
+requirements.txt
+requirements_old.txt
+.DS_Store
